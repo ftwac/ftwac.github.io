@@ -12,7 +12,9 @@ body {
 
 }
 
-
+.main {
+    width:500px;
+}
  /* The navigation bar */
 .navbar {
   overflow: hidden;
