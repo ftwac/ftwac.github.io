@@ -12,9 +12,7 @@ body {
 
 }
 
-.main {
-    width:500px;
-}
+
  /* The navigation bar */
 .navbar {
   overflow: hidden;
@@ -46,8 +44,8 @@ body {
     
 } 
 div.main {
-  max-width: 500px;
+  max-width: 800px;
   margin: auto;
-  border: 3px solid #73AD21;
+  border: 3px solid #000000;
 }  
     
