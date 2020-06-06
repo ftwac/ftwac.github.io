@@ -42,7 +42,8 @@ width: 100%; /* Full width */
 
 /* Main content */
 .main {
-  margin-top: 100px; /* Add a top margin to avoid content overlay */
+  margin-top: 50px; /* Add a top margin to avoid content overlay */
+  margin-bottom:50px;
   margin-left:20px;
 } 
 
