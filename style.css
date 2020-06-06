@@ -56,6 +56,7 @@ width: 100%; /* Full width */
   position: fixed;
   bottom: 0;
   width: 100%;
+  height:auto;
 }
 
 /* Style the links inside the navigation bar */
